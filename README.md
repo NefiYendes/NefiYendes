@@ -11,7 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=YasinAlhadi&style=flat-square&color=blue" alt=""/>
   </div>
   <h1>
-    Hello, I'm Yasin Alhadi
+    Hello, I'm Nefi Yendes
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div align="center">
