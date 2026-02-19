@@ -37,7 +37,7 @@ I am a Front-end Developer from Venezuela.
   ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YasinAlhadi)](https://git.io/streak-stats) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinAlhadi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NefiYendes)](https://git.io/streak-stats) <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NefiYendes&layout=compact)](https://github.com/NefiYendes/github-readme-stats)
 
 ---
