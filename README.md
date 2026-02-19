@@ -21,9 +21,9 @@
   ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer from Sudan.
+I am a Front-end Developer from Venezuela.
 - :seedling: Exploring Technical Content Writing.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-alhadi/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nefiyendes/)
 <div>
     <h2 align="center">Languages and Tools</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -48,8 +48,3 @@ I am a Full Stack Developer from Sudan.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinAlhadi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-Credit: <a herf="https://github.com/YasinAlhadi"> Yasin Alhadi </a><br />
-Last Edited on: 10/02/2023
-
-------
