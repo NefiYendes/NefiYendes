@@ -17,9 +17,9 @@
   ---
 
 ### :man_technologist: About Me :
-I am a Front-end Developer from Venezuela.
-- :seedling: Exploring Technical Content Writing.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nefiyendes/)
+📍 **Front-end Developer | Based in Venezuela** 🎓 **Web Development Student at BYU-Idaho**
+- :🌱 Currently exploring **Technical Content Writing** and modern web architectures.
+- :📬 Let's build something together! You can reach me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nefiyendes/)
 - 
 <div>
     <h2 align="center">Languages and Tools</h2>
@@ -38,6 +38,6 @@ I am a Front-end Developer from Venezuela.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NefiYendes)](https://git.io/streak-stats) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NefiYendes&layout=compact)](https://github.com/NefiYendes/github-readme-stats)
+[![Nefi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NefiYendes&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
