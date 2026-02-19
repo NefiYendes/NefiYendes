@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/yasin-alhadi/">
